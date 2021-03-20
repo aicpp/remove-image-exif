@@ -4,6 +4,8 @@ Original: [lifenod/remove-image-exif](https://github.com/lifenod/remove-image-ex
 
 The script removes Exif data from all *.jpg/*.jpeg files in specified folder. 
 
+[Why Remove EXIF Data?](https://photographylife.com/what-is-exif-data#why-remove-exif-data) 
+
 ## How to use
 
 1.  Installation dependent package
