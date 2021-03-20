@@ -21,8 +21,15 @@ The script removes Exif data from all *.jpg/*.jpeg files in specified folder.
 ```
 
 ## Automatization
+
 If you use Total Commander, you can simplify your life by add command on command bar. 
+
 Then, select move to folder with jpg-files and just push the button on command bar, it invokes the script and all images will be processed. 
+
+In arguments, select: --folder=%P 
+
+%P - means, current folder. 
+
 
 ## License
 
