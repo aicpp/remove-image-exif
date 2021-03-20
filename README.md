@@ -30,6 +30,7 @@ In arguments, select: --folder=%P
 
 %P - means, current folder. 
 
+![Total commander command](./total_commander_example.PNG) 
 
 ## License
 
