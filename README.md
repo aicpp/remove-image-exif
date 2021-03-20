@@ -24,9 +24,11 @@ The script removes Exif data from all *.jpg/*.jpeg files in specified folder.
 
 ## Automatization
 
-If you use Total Commander, you can simplify your life by add command on command bar. 
+At first, you should install python package: `pyinstaller` and run `make_standalone.bat` to create `remove-image-exif.exe`. 
 
-Then, select move to folder with jpg-files and just push the button on command bar, it invokes the script and all images will be processed. 
+If you use Total Commander, you can simplify your life by add a command on command bar. 
+
+Then, move to folder with jpg-files and just push the button on command bar, it invokes the script and all images will be cleaned up. 
 
 In arguments, select: --folder=%P 
 
